@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccc
 ddddddddddddddddddddddddddddddddd
+=======
+hi 
+iam mounika
+i am newly joined candidate
+>>>>>>> cc24eb2... new file added
