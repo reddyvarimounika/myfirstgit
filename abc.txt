@@ -1,4 +1,3 @@
-hi
 mounika
 hello
 some logic
