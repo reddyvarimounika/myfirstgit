@@ -1,10 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccc
 ddddddddddddddddddddddddddddddddd
 =======
 hi 
+=======
+aaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccc
+>>>>>>> 0fd4ecb... new data added
 iam mounika
 i am newly joined candidate
 >>>>>>> cc24eb2... new file added
